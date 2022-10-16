@@ -1,0 +1,14 @@
+C:\MioCorso\bin\Debug\netcoreapp2.1\MioCorso.deps.json
+C:\MioCorso\bin\Debug\netcoreapp2.1\MioCorso.runtimeconfig.json
+C:\MioCorso\bin\Debug\netcoreapp2.1\MioCorso.runtimeconfig.dev.json
+C:\MioCorso\bin\Debug\netcoreapp2.1\MioCorso.dll
+C:\MioCorso\bin\Debug\netcoreapp2.1\MioCorso.pdb
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.csprojAssemblyReference.cache
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.csproj.CoreCompileInputs.cache
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.RazorAssemblyInfo.cache
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.RazorAssemblyInfo.cs
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.AssemblyInfoInputs.cache
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.AssemblyInfo.cs
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.RazorTargetAssemblyInfo.cache
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.dll
+C:\MioCorso\obj\Debug\netcoreapp2.1\MioCorso.pdb
