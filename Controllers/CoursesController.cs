@@ -10,11 +10,11 @@ namespace MioCorso.Controllers
     {
         public IActionResult index()
         {
-            return Content("Sono Index");
+            return View();
         }
         public IActionResult Detail(string id)
         {
-            return Content($"Sono Detail , ho ricevuto l' id {id}");
+            return View();
         }
 
     }

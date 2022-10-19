@@ -10,7 +10,7 @@ namespace MioCorso.Controllers
     {
         public IActionResult Index()
         {
-            return Content(" Sono la Index di Default della pagina HOME");
+            return View();
         }       
     }
 }
